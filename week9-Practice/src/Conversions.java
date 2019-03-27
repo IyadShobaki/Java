@@ -3,14 +3,14 @@
 SPRING 2019 Java Programming
 Professor Sharon Hoover
 Lab 8
-3/18/2019
+3/20/2019
 */
 import java.util.Scanner;
 import java.lang.*;
 public class Conversions {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		double number;
 		String type;
 		boolean isTrue = true;
